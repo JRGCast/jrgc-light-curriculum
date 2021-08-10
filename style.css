@@ -73,6 +73,7 @@
 }
 
 .desc {
+    text-indent: 0.8em;
     margin: 10px 0px 20px 0;
     font-size: max(0.5em, 15px);
     text-align: justify;
